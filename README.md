@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @praveenreddy09
 - 👀 I’m interested in computer science engineering
 - 🌱 I’m currently learning c, c++, html, css, javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data analyst
 - 📫 How to reach me :praveenreddych0912@gmail.com
 
 <!---
